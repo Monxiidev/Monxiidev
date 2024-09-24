@@ -1,4 +1,21 @@
-My habilities:
+# Hola, mi nombre es Montse 👋
+### Full-Stack Web Developer Student
+
+![https://github.com/Monxiidev](./Banner.png)
+
+Nací el 14 de agosto de 1995 en Badajoz. Soy una apasionada de la tecnología, los videojuegos y la programación desde muy pequeñita.
+
+Una de mis mayores motivaciones es aprender. Así fue que empecé un tiempo como autodidacta, devorando libros y tutoriales que iba encontrando hasta que por fin, decidí dar el paso de formarme en un Máster de Desarrollo Web Full-Stack. Desde entonces, no he parado ni un momento para poder seguir formándome y trabajar en el sector Tech. 
+
+Me encanta asistir a directos de desarrolladores, conferencias, realizar proyectos y compartir conocimiento.
+
+## Encuéntrame en:
+
+[![X](https://img.shields.io/badge/X-@Montse_VascoD-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.x.com/Montse_vascod)
+[![Instagram](https://img.shields.io/badge/Instagram-@Montse_VascoD-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Montse_VascoD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Montse_Vasco_Delgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/montsevascod)
+
+Habilidades:
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
