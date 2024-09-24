@@ -13,7 +13,6 @@ Me encanta asistir a directos de desarrolladores, conferencias, realizar proyect
 
 [![X](https://img.shields.io/badge/X-@Montse_VascoD-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.x.com/Montse_vascod)
 [![Instagram](https://img.shields.io/badge/Instagram-@Montse_VascoD-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Montse_VascoD)
-</br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Montse_Vasco_Delgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/montsevascod)
 
 Habilidades:
