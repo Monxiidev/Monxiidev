@@ -1,8 +1,8 @@
 # Hola, mi nombre es Montse 👋
 ### Full-Stack Web Developer Student
-
+</br>
 ![https://github.com/Monxiidev](./Banner.jpg.jpg)
-
+</br>
 Nací el 14 de agosto de 1995 en Badajoz. Soy una apasionada de la tecnología, los videojuegos y la programación desde muy pequeñita.
 
 Una de mis mayores motivaciones es aprender. Así fue que empecé un tiempo como autodidacta, devorando libros y tutoriales que iba encontrando hasta que por fin, decidí dar el paso de formarme en un Máster de Desarrollo Web Full-Stack. Desde entonces, no he parado ni un momento para poder seguir formándome y trabajar en el sector Tech. 
