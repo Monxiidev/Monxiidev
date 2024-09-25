@@ -11,13 +11,18 @@ Una de mis mayores motivaciones es aprender. Así fue que empecé un tiempo como
 
 Me encanta asistir a directos de desarrolladores, conferencias, realizar proyectos y compartir conocimiento.
 
+<br>
+
 ## Encuéntrame en:
 
-[![X](https://img.shields.io/badge/X-@Montse_VascoD-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.x.com/Montse_vascod)
+[![Twitter](https://img.shields.io/badge/Twitter-@Montse_VascoD-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://www.x.com/Montse_vascod)
 [![Instagram](https://img.shields.io/badge/Instagram-@Montse_VascoD-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/Montse_VascoD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Montse_Vasco_Delgado-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/montsevascod)
+[![Gmail](https://img.shields.io/badge/Email%20personal-white?style=for-the-badge&logo=gmail&logoColor=white&label=MontseVascoDelgado%40gmail.com&labelColor=black&color=%23EA4335)](mailto:montsevd14@gmail.com)
 
-Habilidades:
+<br>
+
+## Tecnologías utilizadas 🛠️
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
@@ -32,9 +37,3 @@ Habilidades:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-
-<!---
-Monxiidev/Monxiidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
