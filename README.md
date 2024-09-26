@@ -15,7 +15,7 @@ Me encanta asistir a directos de desarrolladores, conferencias, realizar proyect
 
 ## Acerca de este repositorio 📁  
 
-En este repositorio encontrarás toda la información sobre mis habilidades y mi continua evolución como desarrolladora. Mi objetivo es crear soluciones web innovadoras, eficaces y explorar las emocionantes posibilidades que nos ofrece la tecnología cada día.
+En este repositorio encontrarás toda la información sobre mis habilidades y mi continua evolución como desarrolladora. Mi objetivo es crear soluciones web innovadoras, eficientes y explorar las emocionantes posibilidades que nos ofrece la tecnología cada día.
 
 <br>
 
